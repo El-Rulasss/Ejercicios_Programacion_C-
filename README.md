@@ -1,6 +1,6 @@
 # Ejercicios Programacion C++ 
-Materia: Programacion orientada a objectos 
-Profesor: Héctor Diaz Rodríguez
+# Materia: Programacion orientada a objectos 
+# Profesor: Héctor Diaz Rodríguez
 
 # Repositorio de ejercicios de Programación Orientada a Objetos
 
